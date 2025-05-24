@@ -143,7 +143,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: -5639877304164591750, guid: 0b39f6e9b0acd614798cb0548b3771c7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -244,6 +244,8 @@ MonoBehaviour:
   snowballPrefab: {fileID: 692371113491720421, guid: 171568698fa90c74eb9a9fc381a11adf, type: 3}
   snowballSpawnPoint: {fileID: 1165041705436393627, guid: 171568698fa90c74eb9a9fc381a11adf, type: 3}
   snowballSpeed: 10
+  footstepAudioSource: {fileID: 0}
+  footstepSound: []
 --- !u!95 &5881650091649521137
 Animator:
   serializedVersion: 7

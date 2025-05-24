@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c5cae500b8ec788449b1c6061b77a31b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5777852690948417523
+    second: bush8_1_1.Animasyon_0
+  - first:
+      213: -6949109653539685249
+    second: bush8_1_1.Animasyon_1
+  - first:
+      213: -4737443987389359544
+    second: bush8_1_1.Animasyon_2
+  - first:
+      213: -3169022261962198214
+    second: bush8_1_1.Animasyon_3
+  - first:
+      213: 4228835596185508214
+    second: bush8_1_1.Animasyon_4
+  - first:
+      213: -654757636723906127
+    second: bush8_1_1.Animasyon_5
+  - first:
+      213: -7914951502691444536
+    second: bush8_1_1.Animasyon_6
+  - first:
+      213: 2569015701093511588
+    second: bush8_1_1.Animasyon_7
+  - first:
+      213: 4659574826138926201
+    second: bush8_1_1.Animasyon_8
+  - first:
+      213: 4559145880064115094
+    second: bush8_1_1.Animasyon_9
+  - first:
+      213: -8321984896497836248
+    second: bush8_1_1.Animasyon_10
+  - first:
+      213: -2628607103361883598
+    second: bush8_1_1.Animasyon_11
+  - first:
+      213: 2946030804692956488
+    second: bush8_1_1.Animasyon_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081c770791f0dfa0800000000000000
+      internalID: -5777852690948417523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c778b869dcf8f90800000000000000
+      internalID: -6949109653539685249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 255
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ad8542bc7314eb0800000000000000
+      internalID: -4737443987389359544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33307efa0f5504d0800000000000000
+      internalID: -3169022261962198214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 255
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6791a24c197dfaa30800000000000000
+      internalID: 4228835596185508214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e8110665d9e6f0800000000000000
+      internalID: -654757636723906127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8d1a32b81782290800000000000000
+      internalID: -7914951502691444536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1741e3b2af6a320800000000000000
+      internalID: 2569015701093511588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 127
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfc5ced922aa040800000000000000
+      internalID: 4659574826138926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 127
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914864c507554f30800000000000000
+      internalID: 4559145880064115094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 127
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f941214de528c80800000000000000
+      internalID: -8321984896497836248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232eb0634cf458bd0800000000000000
+      internalID: -2628607103361883598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush8_1_1.Animasyon_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f41b786762e820800000000000000
+      internalID: 2946030804692956488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bush8_1_1.Animasyon_0: -5777852690948417523
+      bush8_1_1.Animasyon_1: -6949109653539685249
+      bush8_1_1.Animasyon_10: -8321984896497836248
+      bush8_1_1.Animasyon_11: -2628607103361883598
+      bush8_1_1.Animasyon_12: 2946030804692956488
+      bush8_1_1.Animasyon_2: -4737443987389359544
+      bush8_1_1.Animasyon_3: -3169022261962198214
+      bush8_1_1.Animasyon_4: 4228835596185508214
+      bush8_1_1.Animasyon_5: -654757636723906127
+      bush8_1_1.Animasyon_6: -7914951502691444536
+      bush8_1_1.Animasyon_7: 2569015701093511588
+      bush8_1_1.Animasyon_8: 4659574826138926201
+      bush8_1_1.Animasyon_9: 4559145880064115094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
