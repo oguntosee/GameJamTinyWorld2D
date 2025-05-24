@@ -113,7 +113,7 @@ public class GameSceneManager : MonoBehaviour
             PlayerInventory[inventoryItemInfo] += lootedAmount;
         }
         else
-        {
+        { 
             PlayerInventory[inventoryItemInfo] = lootedAmount;
         }
 
