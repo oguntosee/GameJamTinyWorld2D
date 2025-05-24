@@ -21,6 +21,7 @@
 *.wav binary
 *.mp3 binary
 *.ogg binary
+*.mp4 binary
 
 # Merge tool support for YAML-based Unity files
 *.unity merge=unityyamlmerge eol=lf

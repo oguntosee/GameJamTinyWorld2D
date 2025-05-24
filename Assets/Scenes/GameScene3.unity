@@ -14831,6 +14831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   previousScene: 
+  activeSpeakerType: 0
+  wizardStoryDialogueIndex: 0
+  activeSceneName: 
 --- !u!1 &1133470703
 GameObject:
   m_ObjectHideFlags: 0
@@ -14984,7 +14987,6 @@ MonoBehaviour:
   wizardAvatar: {fileID: 0}
   playerAvatar: {fileID: 0}
   offset: 360
-  dialogueLines: []
 --- !u!1 &1280408530
 GameObject:
   m_ObjectHideFlags: 0
@@ -15358,7 +15360,7 @@ Transform:
   m_GameObject: {fileID: 2036822770}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.1240597, y: -6.49969, z: 0}
+  m_LocalPosition: {x: -4.1240597, y: -6.46, z: 0}
   m_LocalScale: {x: 2.0889473, y: 2.3321342, z: 2.3321342}
   m_ConstrainProportionsScale: 0
   m_Children: []
