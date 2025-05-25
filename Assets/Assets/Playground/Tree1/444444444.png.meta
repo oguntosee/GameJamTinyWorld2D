@@ -173,12 +173,12 @@ TextureImporter:
       name: 444444444_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 255
-        width: 72
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: 444444444_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 255
-        width: 72
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: 444444444_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 255
-        width: 72
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,12 +239,12 @@ TextureImporter:
       name: 444444444_3
       rect:
         serializedVersion: 2
-        x: 428
-        y: 255
-        width: 25
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -261,12 +261,12 @@ TextureImporter:
       name: 444444444_4
       rect:
         serializedVersion: 2
-        x: 448
-        y: 255
-        width: 55
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,12 +283,12 @@ TextureImporter:
       name: 444444444_5
       rect:
         serializedVersion: 2
-        x: 555
-        y: 255
-        width: 26
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: 444444444_6
       rect:
         serializedVersion: 2
-        x: 575
-        y: 255
-        width: 56
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,12 +327,12 @@ TextureImporter:
       name: 444444444_7
       rect:
         serializedVersion: 2
-        x: 41
-        y: 127
-        width: 26
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,12 +349,12 @@ TextureImporter:
       name: 444444444_8
       rect:
         serializedVersion: 2
-        x: 63
-        y: 127
-        width: 56
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: 444444444_9
       rect:
         serializedVersion: 2
-        x: 167
-        y: 127
-        width: 25
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: 444444444_10
       rect:
         serializedVersion: 2
-        x: 191
-        y: 127
-        width: 55
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: 444444444_11
       rect:
         serializedVersion: 2
-        x: 291
-        y: 127
-        width: 28
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -433,187 +433,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: 444444444_12
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 127
-        width: 55
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b460137e1e3b245c0800000000000000
-      internalID: -4232622916947081653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_13
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 127
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e42062a4c3d7b54d0800000000000000
-      internalID: -3144782216892644786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_14
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 127
-        width: 54
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf3d87306adead780800000000000000
-      internalID: -8657346036387752964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_15
-      rect:
-        serializedVersion: 2
-        x: 538
-        y: 127
-        width: 33
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85b2e846e417d42e0800000000000000
-      internalID: -2139929666422690984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_16
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 127
-        width: 53
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c7a64c0f336cc270800000000000000
-      internalID: 8272095738012805056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_17
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 0
-        width: 27
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0a67826a6c4165c0800000000000000
-      internalID: -4224010955693528561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_18
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 0
-        width: 54
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 163699feedb2c7800800000000000000
-      internalID: 611411885918085985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 444444444_19
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 0
-        width: 54
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f158a122a2f971360800000000000000
-      internalID: 7140350737528816927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cd3829e8f3b83ee4c96ccad1fb20fc24
     internalID: 0
     vertices: []
     indices: 
@@ -621,20 +445,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       444444444_0: 5507259642764497399
       444444444_1: 6287307457839738684
       444444444_10: -4278850255298736652
       444444444_11: 6861775048195037612
-      444444444_12: -4232622916947081653
-      444444444_13: -3144782216892644786
-      444444444_14: -8657346036387752964
-      444444444_15: -2139929666422690984
-      444444444_16: 8272095738012805056
-      444444444_17: -4224010955693528561
-      444444444_18: 611411885918085985
-      444444444_19: 7140350737528816927
       444444444_2: 6125150810410967061
       444444444_3: -2926507161285346500
       444444444_4: 785248402331023570
