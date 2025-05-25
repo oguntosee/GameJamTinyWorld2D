@@ -152,12 +152,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 255
-        width: 104
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -174,12 +174,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 255
-        width: 104
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -196,12 +196,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_2
       rect:
         serializedVersion: 2
-        x: 270
-        y: 255
-        width: 102
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,12 +218,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_3
       rect:
         serializedVersion: 2
-        x: 398
-        y: 255
-        width: 102
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,12 +240,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_4
       rect:
         serializedVersion: 2
-        x: 526
-        y: 255
-        width: 102
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -262,12 +262,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_5
       rect:
         serializedVersion: 2
-        x: 13
-        y: 127
-        width: 103
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,12 +284,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_6
       rect:
         serializedVersion: 2
-        x: 140
-        y: 127
-        width: 104
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,12 +306,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_7
       rect:
         serializedVersion: 2
-        x: 267
-        y: 127
-        width: 105
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -328,12 +328,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_8
       rect:
         serializedVersion: 2
-        x: 394
-        y: 127
-        width: 106
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,12 +350,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_9
       rect:
         serializedVersion: 2
-        x: 521
-        y: 127
-        width: 38
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,12 +372,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_10
       rect:
         serializedVersion: 2
-        x: 537
-        y: 127
-        width: 91
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -394,12 +394,12 @@ TextureImporter:
       name: bush8_1_1.Animasyon_11
       rect:
         serializedVersion: 2
-        x: 23
+        x: 128
         y: 0
-        width: 93
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,33 +412,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: bush8_1_1.Animasyon_12
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 0
-        width: 93
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 845f41b786762e820800000000000000
-      internalID: 2946030804692956488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 968487bb36947804ba2b1d740526a368
     internalID: 0
     vertices: []
     indices: 
@@ -446,13 +424,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       bush8_1_1.Animasyon_0: -5777852690948417523
       bush8_1_1.Animasyon_1: -6949109653539685249
       bush8_1_1.Animasyon_10: -8321984896497836248
       bush8_1_1.Animasyon_11: -2628607103361883598
-      bush8_1_1.Animasyon_12: 2946030804692956488
       bush8_1_1.Animasyon_2: -4737443987389359544
       bush8_1_1.Animasyon_3: -3169022261962198214
       bush8_1_1.Animasyon_4: 4228835596185508214

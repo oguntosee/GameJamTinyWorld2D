@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: a8ae7d34d40db3c469e5538bde141714
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3302090668229362309
+    second: rockExplosion_0
+  - first:
+      213: 3495895506893035416
+    second: rockExplosion_1
+  - first:
+      213: 7568273824904808811
+    second: rockExplosion_2
+  - first:
+      213: 7063011043046616895
+    second: rockExplosion_3
+  - first:
+      213: -8833144335907875511
+    second: rockExplosion_4
+  - first:
+      213: -1591918111612872353
+    second: rockExplosion_5
+  - first:
+      213: -697688822461551646
+    second: rockExplosion_6
+  - first:
+      213: -7442731759684329576
+    second: rockExplosion_7
+  - first:
+      213: -3499796444551013346
+    second: rockExplosion_8
+  - first:
+      213: 4856628065559871038
+    second: rockExplosion_9
+  - first:
+      213: 9033639255560577278
+    second: rockExplosion_10
+  - first:
+      213: -8612488681307166534
+    second: rockExplosion_11
+  - first:
+      213: -614040209871539864
+    second: rockExplosion_12
+  - first:
+      213: -1445323575758037651
+    second: rockExplosion_13
+  - first:
+      213: 760272389560998301
+    second: rockExplosion_14
+  - first:
+      213: -8377254583273553469
+    second: rockExplosion_15
+  - first:
+      213: 2441299357792358191
+    second: rockExplosion_16
+  - first:
+      213: 7255300627707854150
+    second: rockExplosion_17
+  - first:
+      213: -7789758522906652484
+    second: rockExplosion_18
+  - first:
+      213: -1605766772363669756
+    second: rockExplosion_19
+  - first:
+      213: -1077390843031758094
+    second: rockExplosion_20
+  - first:
+      213: 2258260628437412492
+    second: rockExplosion_21
+  - first:
+      213: 6097390287571873427
+    second: rockExplosion_22
+  - first:
+      213: 2247088966851205136
+    second: rockExplosion_23
+  - first:
+      213: 8488203073826815890
+    second: rockExplosion_24
+  - first:
+      213: 1646382049491823238
+    second: rockExplosion_25
+  - first:
+      213: 6749577411179245064
+    second: rockExplosion_26
+  - first:
+      213: -8325069168417064207
+    second: rockExplosion_27
+  - first:
+      213: -9005012472261628157
+    second: rockExplosion_28
+  - first:
+      213: -5894542181617286753
+    second: rockExplosion_29
+  - first:
+      213: -5620614999271211495
+    second: rockExplosion_30
+  - first:
+      213: -4353336472002944111
+    second: rockExplosion_31
+  - first:
+      213: 1547375575191927067
+    second: rockExplosion_32
+  - first:
+      213: -6757626425913168935
+    second: rockExplosion_33
+  - first:
+      213: 2959457360309730408
+    second: rockExplosion_34
+  - first:
+      213: -1654507310462348857
+    second: rockExplosion_35
+  - first:
+      213: 2723918579604368435
+    second: rockExplosion_36
+  - first:
+      213: 1095110883908092572
+    second: rockExplosion_37
+  - first:
+      213: -3371880807328085315
+    second: rockExplosion_38
+  - first:
+      213: -5093240348504020229
+    second: rockExplosion_39
+  - first:
+      213: -3250770368222282337
+    second: rockExplosion_40
+  - first:
+      213: -846715661481027793
+    second: rockExplosion_41
+  - first:
+      213: 8655754918426265749
+    second: rockExplosion_42
+  - first:
+      213: -2658053073010233660
+    second: rockExplosion_43
+  - first:
+      213: -8834583861581359840
+    second: rockExplosion_44
+  - first:
+      213: 4458628844193114055
+    second: rockExplosion_45
+  - first:
+      213: -5230625034890390
+    second: rockExplosion_46
+  - first:
+      213: -4818492400788944081
+    second: rockExplosion_47
+  - first:
+      213: 5548359673918735337
+    second: rockExplosion_48
+  - first:
+      213: 1012814099151548528
+    second: rockExplosion_49
+  - first:
+      213: -5773793759420475607
+    second: rockExplosion_50
+  - first:
+      213: -3556985002967393102
+    second: rockExplosion_51
+  - first:
+      213: 3864013363647372908
+    second: rockExplosion_52
+  - first:
+      213: 2987835719711592176
+    second: rockExplosion_53
+  - first:
+      213: -772833319328153266
+    second: rockExplosion_54
+  - first:
+      213: 1780022519133495264
+    second: rockExplosion_55
+  - first:
+      213: -222003278708281800
+    second: rockExplosion_56
+  - first:
+      213: 488731548992592801
+    second: rockExplosion_57
+  - first:
+      213: 6138589805411902732
+    second: rockExplosion_58
+  - first:
+      213: 5371361985938879397
+    second: rockExplosion_59
+  - first:
+      213: -8822066409003377961
+    second: rockExplosion_60
+  - first:
+      213: -6652544977182720500
+    second: rockExplosion_61
+  - first:
+      213: -8389125533204932407
+    second: rockExplosion_62
+  - first:
+      213: -6027251291881709323
+    second: rockExplosion_63
+  - first:
+      213: -4821639924667315775
+    second: rockExplosion_64
+  - first:
+      213: 4078141518939208971
+    second: rockExplosion_65
+  - first:
+      213: -8819318472697503130
+    second: rockExplosion_66
+  - first:
+      213: 7903364195222594688
+    second: rockExplosion_67
+  - first:
+      213: -5608626570931468794
+    second: rockExplosion_68
+  - first:
+      213: 346897748349199596
+    second: rockExplosion_69
+  - first:
+      213: -1795566507511284822
+    second: rockExplosion_70
+  - first:
+      213: -7688312381640655048
+    second: rockExplosion_71
+  - first:
+      213: -3764126327881691476
+    second: rockExplosion_72
+  - first:
+      213: -3345546617478277340
+    second: rockExplosion_73
+  - first:
+      213: -6113524473307739652
+    second: rockExplosion_74
+  - first:
+      213: 8959469573020902923
+    second: rockExplosion_75
+  - first:
+      213: 4169723405535452356
+    second: rockExplosion_76
+  - first:
+      213: 2612913410945413647
+    second: rockExplosion_77
+  - first:
+      213: -3063691758588956256
+    second: rockExplosion_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d7e00580e9c22d0800000000000000
+      internalID: -3302090668229362309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8975e34017ae38030800000000000000
+      internalID: 3495895506893035416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69865002f8e70960800000000000000
+      internalID: 7568273824904808811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f64794f1bd40260800000000000000
+      internalID: 7063011043046616895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9451578c60e5a6580800000000000000
+      internalID: -8833144335907875511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59ddcd69ee58e9e0800000000000000
+      internalID: -1591918111612872353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2b6566bf4156f0800000000000000
+      internalID: -697688822461551646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f5f79d5ea16b890800000000000000
+      internalID: -7442731759684329576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9c582da93e6fc0800000000000000
+      internalID: -3499796444551013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e73ed7e75366340800000000000000
+      internalID: 4856628065559871038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef066b86a0fed5d70800000000000000
+      internalID: 9033639255560577278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82d9edc2b4a7880800000000000000
+      internalID: -8612488681307166534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861fcc4bead7a77f0800000000000000
+      internalID: -614040209871539864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 274107f66fb206942b7215a4ce4b9fde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rockExplosion_0: -3302090668229362309
+      rockExplosion_1: 3495895506893035416
+      rockExplosion_10: 9033639255560577278
+      rockExplosion_11: -8612488681307166534
+      rockExplosion_12: -614040209871539864
+      rockExplosion_2: 7568273824904808811
+      rockExplosion_3: 7063011043046616895
+      rockExplosion_4: -8833144335907875511
+      rockExplosion_5: -1591918111612872353
+      rockExplosion_6: -697688822461551646
+      rockExplosion_7: -7442731759684329576
+      rockExplosion_8: -3499796444551013346
+      rockExplosion_9: 4856628065559871038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
