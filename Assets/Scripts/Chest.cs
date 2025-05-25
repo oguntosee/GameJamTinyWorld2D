@@ -75,6 +75,7 @@ public class Chest : MonoBehaviour
     {
         if (other.CompareTag("Player") && chestState.isAlreadyLooted == false)
         {
+            
             isInteractionAvailable = true;
             interactionManager.SetInteractionAvailable(this.gameObject);
         }

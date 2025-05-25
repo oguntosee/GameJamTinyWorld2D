@@ -30,7 +30,11 @@ public class Player : MonoBehaviour
 
     [Header("Sounds")]
     [SerializeField] private AudioSource footstepAudioSource;
-    [SerializeField] private AudioClip []footstepSound;
+    [SerializeField] private AudioClip[] footstepSound;
+
+    [Header("Progress Bar Location")]
+    public GameObject progressBarPrefab;
+    public GameObject currentBar;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -62,7 +66,7 @@ public class Player : MonoBehaviour
             ThrowSnowball();
 
     }
-    
+
     private void Idle()
     {
         isMoving = rb.linearVelocity.x != 0;
@@ -95,13 +99,13 @@ public class Player : MonoBehaviour
     private void Movement()
     {
         rb.linearVelocity = new Vector2(moveSpeed * xInput, rb.linearVelocity.y);
-        
 
 
 
-}
-    
-    
+
+    }
+
+
 
     private void OnDrawGizmos()
     {
@@ -130,7 +134,7 @@ public class Player : MonoBehaviour
             }
 
         }
-        
+
     }
     public void PlayFootstepSound()
     {
@@ -144,8 +148,8 @@ public class Player : MonoBehaviour
 
     private void DestroySnowBall(GameObject snowball)
     {
-        
+
         Destroy(snowball, 5f);
-        
+
     }
 }
