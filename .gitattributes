@@ -1,8 +1,8 @@
-# Unity asset and meta files (text-based)
-*.asset text eol=lf
+# Unity YAML-based assets (text-based, diffable)
+*.asset merge=unityyamlmerge eol=lf
 *.meta text eol=lf
-*.prefab text eol=lf
-*.unity text eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
 
 # C# and config scripts
 *.cs text eol=lf
@@ -13,7 +13,8 @@
 *.uxml text eol=lf
 *.uss text eol=lf
 *.cginc text eol=lf
-# Binary assets
+
+# Binary assets (non-text, no diffing)
 *.png binary
 *.jpg binary
 *.fbx binary
@@ -21,32 +22,4 @@
 *.mp3 binary
 *.ogg binary
 *.mp4 binary
-# Merge tool support for YAML-based Unity files
-*.unity merge=unityyamlmerge eol=lf
-*.prefab merge=unityyamlmerge eol=lf
-*.asset merge=unityyamlmerge eol=lf
-*.png !text !filter !merge !diff
-*.jpg !text !filter !merge !diff
-*.jpeg !text !filter !merge !diff
-*.psd !text !filter !merge !diff
-*.psb !text !filter !merge !diff
-*.tga !text !filter !merge !diff
-*.gif !text !filter !merge !diff
-*.bmp !text !filter !merge !diff
-*.tiff !text !filter !merge !diff
-*.ai !text !filter !merge !diff
-*.eps !text !filter !merge !diff
-*.mp4 !text !filter !merge !diff
-*.mov !text !filter !merge !diff
-*.avi !text !filter !merge !diff
-*.wav !text !filter !merge !diff
-*.mp3 !text !filter !merge !diff
-*.ogg !text !filter !merge !diff
-*.fbx !text !filter !merge !diff
-*.obj !text !filter !merge !diff
-*.prefab !text !filter !merge !diff
-*.unity !text !filter !merge !diff
-*.anim !text !filter !merge !diff
-*.controller !text !filter !merge !diff
-*.asset !text !filter !merge !diff
-*.Animasyon.png !text !filter !merge !diff
+
