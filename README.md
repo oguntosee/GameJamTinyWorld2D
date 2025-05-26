@@ -21,6 +21,6 @@ Notes:
 
 You can clone with following command on git-bash:
 
-git clone -b dev-gamejam https://github.com/oguntosee/GameJamTinyWorld2D.git
+`git clone -b dev-gamejam https://github.com/oguntosee/GameJamTinyWorld2D.git`
 
 
