@@ -7,9 +7,13 @@ Notes:
 
 <h2>BUGS will be FIXED</h2>
 - Game does not go into EndGame state.
+
 - Bugs in looting items (wood and iron).
+
 - Missing features with Wizard (NPC) interaction to make player know about storyline.
+
 - Missing features in Main Menu.
+
 - Some other bugs.
 
 
