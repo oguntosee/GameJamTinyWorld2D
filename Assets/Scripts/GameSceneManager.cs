@@ -65,6 +65,31 @@ public class GameSceneManager : MonoBehaviour
 
     }
 
+
+    public int GetWoodAmount()
+    {
+        if (!PlayerInventory.ContainsKey(ItemType.Wood))
+            return 0;
+        return PlayerInventory[ItemType.Wood];
+    }
+
+    public int GetIronAmount()
+    {
+        if (!PlayerInventory.ContainsKey(ItemType.Iron))
+            return 0;
+        return PlayerInventory[ItemType.Iron];
+    }
+
+
+    public int GetEntchantAmount()
+    {
+        if (!PlayerInventory.ContainsKey(ItemType.EntchantMaterial))
+            return 0;
+        return PlayerInventory[ItemType.EntchantMaterial];
+    }
+
+
+
     private void OnDestroy()
     {
         if (Instance == this)
@@ -165,7 +190,12 @@ public class GameSceneManager : MonoBehaviour
     }
 
 
-
+    public int GetEntchantMaterial()
+    {
+        if (!PlayerInventory.ContainsKey(ItemType.EntchantMaterial))
+            return 0;
+        return PlayerInventory[ItemType.EntchantMaterial];
+    }
 
     public List<DialogueLine> GetDialogueLines(SpeakerType speakerType)
     {

@@ -6,16 +6,16 @@ public class MoveController : MonoBehaviour
     private Rigidbody2D rb;
     
     [Header("Collision Check")]
-    [SerializeField] private LayerMask whatIsGround;
-    [SerializeField] private Transform groundCheck;
-    [SerializeField] private float groundCheckRadius;
-    [SerializeField] private bool isGrounded;
+    private LayerMask whatIsGround;
+    private Transform groundCheck;
+    private float groundCheckRadius;
+    private bool isGrounded;
 
 
     [Header("Movement")]
     public float xInput;
-    [SerializeField] private float moveSpeed = 2.0f;
-    [SerializeField] private float jumpForce = 4f;
+    private float moveSpeed = 2.0f;
+    private float jumpForce = 4f;
 
 
 

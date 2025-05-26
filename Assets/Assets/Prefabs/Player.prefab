@@ -76,6 +76,7 @@ GameObject:
   - component: {fileID: 897737678036241638}
   - component: {fileID: 3909092210463783104}
   - component: {fileID: 5881650091649521137}
+  - component: {fileID: -9153629547721787013}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -92,7 +93,7 @@ Transform:
   m_GameObject: {fileID: 8484683411650241429}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.1, y: -2.2, z: 0}
+  m_LocalPosition: {x: -3.88518, y: -1.74961, z: 0}
   m_LocalScale: {x: 1.8777, y: 1.8777, z: 1.8777}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -231,11 +232,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0800293de8069d1428192bcf0a95c7be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  facingRight: 1
   whatIsGround:
     serializedVersion: 2
     m_Bits: 8
   groundCheck: {fileID: 32551835704147482}
-  groundCheckRadius: 0.23
+  groundCheckRadius: 0.2
   isGrounded: 0
   xInput: 0
   isMoving: 0
@@ -246,6 +250,36 @@ MonoBehaviour:
   snowballSpeed: 10
   footstepAudioSource: {fileID: 0}
   footstepSound: []
+  progressBarPrefab: {fileID: 0}
+  currentBar: {fileID: 0}
+  playerInput: {fileID: 0}
+  moveAction:
+    m_Name: Move
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 5d851aea-aba5-4e18-9578-776f331f1748
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  jumpAction:
+    m_Name: Jump
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 62810280-abb5-420e-b99d-8207fb8f9489
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  throwAction:
+    m_Name: Throw
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: bf338105-4054-44d1-ac30-cd9632fe24c0
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
 --- !u!95 &5881650091649521137
 Animator:
   serializedVersion: 7
@@ -268,3 +302,33 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-9153629547721787013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8484683411650241429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}

@@ -5,7 +5,7 @@ using System;
 
 public class EnemySpawner : MonoBehaviour
 {
-
+    public int EntchantAmount;
     public static EnemySpawner Instance;
     private Player playerInstance;
 
@@ -63,20 +63,31 @@ public class EnemySpawner : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (activeSceneName == "GameScene1" && canEnemySpawn == true)
+
+        EntchantAmount = GameSceneManager.Instance.GetEntchantAmount();
+
+
+        if (EntchantAmount < 6)
         {
-            if (enemyInstanceAmount < 2)
+            if (activeSceneName == "GameScene1" && canEnemySpawn == true)
             {
-                for (int i = 0; i < 2 - enemyInstanceAmount; i++)
+                if (enemyInstanceAmount < 2)
                 {
-                    SpawnEnemy();
-                    enemyInstanceAmount++;
+
+                    for (int i = 0; i < 2 - enemyInstanceAmount; i++)
+                    {
+
+                        SpawnEnemy();
+                        enemyInstanceAmount++;
+                    }
                 }
+
             }
 
         }
 
     }
+
 
 
     public void SpawnEntchantMaterial(Vector3 position)

@@ -9,6 +9,7 @@ TagManager:
   - LeftSpawn
   - RightSpawn
   - Axe
+  - endGame
   layers:
   - Default
   - TransparentFX

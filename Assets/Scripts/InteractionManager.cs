@@ -1,8 +1,7 @@
-using Unity.VisualScripting;
-using UnityEditor.ShaderGraph.Internal;
+
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
+
 
 public class InteractionManager : MonoBehaviour
 {

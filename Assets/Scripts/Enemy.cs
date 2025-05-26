@@ -13,15 +13,15 @@ public class Enemy : MonoBehaviour
     private bool facingRight = true;
 
     [Header("Collision Check")]
-    [SerializeField] private LayerMask whatIsGround; // ground
-    [SerializeField] private Transform groundCheck;
-    [SerializeField] private float groundCheckRadius;
-    [SerializeField] private bool isGrounded;
+    private LayerMask whatIsGround; // ground
+    private Transform groundCheck;
+    private float groundCheckRadius;
+    private bool isGrounded;
 
     [Header("Movement")]
-    [SerializeField] private bool isAlive;
-    [SerializeField] public float moveSpeed = 2.0f;
-    [SerializeField] public int health = 3;
+    private bool isAlive;
+    public float moveSpeed = 2.0f;
+    public int health = 3;
     private bool Alive;
     private Transform playerTransform;
     private int directionMultiplier = 1; // Baþlangýç deðeri
