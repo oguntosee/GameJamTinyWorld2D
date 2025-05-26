@@ -13,12 +13,12 @@ public class ChestState
 
 public class Chest : MonoBehaviour
 {
-
+    
     public InteractionManager interactionManager;
     private Animator anim;
 
     private bool isInteractionAvailable;
-    private bool isOpening;
+    public bool isOpening;
 
     private string chestID;
 
@@ -40,6 +40,10 @@ public class Chest : MonoBehaviour
         isOpening = false;
         //chestState.isAlreadyLooted = false;
         chestState = new ChestState();
+
+
+
+        
         
 
         if (GameSceneManager.Instance.IsChestAlreadyAssigned(chestID) == false)

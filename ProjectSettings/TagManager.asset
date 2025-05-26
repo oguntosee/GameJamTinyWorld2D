@@ -8,6 +8,7 @@ TagManager:
   - Snowball
   - LeftSpawn
   - RightSpawn
+  - Axe
   layers:
   - Default
   - TransparentFX

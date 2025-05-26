@@ -81,7 +81,7 @@ public class EnemySpawner : MonoBehaviour
 
     public void SpawnEntchantMaterial(Vector3 position)
     {
-        Vector3 tempPosition = new Vector3(position.x, -3, position.z);
+        Vector3 tempPosition = new Vector3(position.x, -1, position.z);
         GameObject entchantMaterial = Instantiate(entchantPrefab, tempPosition, Quaternion.identity);
     }
 
