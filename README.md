@@ -6,6 +6,7 @@ Notes:
 - Branches will be fixed.
 
 <h2>BUGS will be FIXED</h2>
+
 - Game does not go into EndGame state.
 
 - Bugs in looting items (wood and iron).
